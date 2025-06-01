@@ -1,4 +1,5 @@
-# 📘 documentation_to_project_knowledge_genAI_tool
+# 📘 URL Documentation to Claude Project Knowledge
+GenAI Transformation tool
 
 A flexible Python tool that scrapes documentation websites and converts their contents into clean Markdown and structured JSON.  
 Designed specifically to create "project knowledge" for GenAI systems like Claude 4.0, ChatGPT, and other LLMs in RAG workflows.
